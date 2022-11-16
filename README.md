@@ -8,3 +8,7 @@ This is simple and beautiful UI solution for menu. Works best in VR.
 ## Documentation
  Not sure if it's going to be. Code is pretty self explanatory.
  
+
+## Contribute
+ Contributions are welcome <3
+ 
